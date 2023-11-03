@@ -2,7 +2,7 @@
   
         var base   = parseFloat(prompt("Please enter your Base: "));
         var height = parseFloat(prompt("Please enter your Height: "));
-        var area   = (base * height)/2;
+        var area   = (base * height);
         document ("Area: " + area);
 
  </script>
